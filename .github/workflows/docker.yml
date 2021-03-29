@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env:
-  IMAGE_NAME: ghtoken_product_demo
+  IMAGE_NAME: jrebel-ls
 
 jobs:
   # Push image to GitHub Packages.
